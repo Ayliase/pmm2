@@ -1,0 +1,28 @@
+@font-face {
+  font-family: 'Calibri';
+  src: url('./../assets/fonts/calibri-font-family/') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+html {
+
+}
+
+body {
+	font-family: 'Calibri';
+	font-size: 22px;
+}
+
+h1 {
+	font-size: 60px;
+}
+
+h2 {
+	font-size: 40px;
+	font-style: italic;
+}
+
+table, td, th {
+	border: 2px solid;
+}
