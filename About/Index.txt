@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Our Story - About Page</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="about-container">
+        <header class="hero-section">
+            <h1>Crafted for Clarity</h1>
+            <p class="subtitle">OUR STORY</p>
+        </header>
+        
+        <section class="main-content">
+            <p>Born from a simple idea: to make complex beautiful. We believe in the power of thoughtful design and precise communication. Every project is a journey of discovery, transforming raw ideas into polished realities.</p>
+            
+            <p>Our team, a collective of artists and strategists, is dedicated to bringing your vision to light.</p>
+            
+            <a href="#" class="cta-button">See Our Work</a>
+        </section>
+    </div>
+</body>
+</html>

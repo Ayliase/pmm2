@@ -1,0 +1,28 @@
+inside <head>
+
+<meta name="title" content="PMM2: Novel Heat Engine Defies Carnot | Water's Anomalous Expansion">
+<meta name="description" content="Novel heat engine concept using water's anomalous expansion. Convert low-quality heat into work, seemingly surpassing Carnot efficiency and challenging thermodynamics.">
+<meta name="keywords" content="PMM2, Perpetual Motion Machine of the Second Kind, Carnot Efficiency, Heat Engine, Water Anomalous Expansion, Green Energy, Renewable Energy, Thermodynamics, Clausius-Clapeyron, Ice Expansion">
+
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://pmm2.in/">
+<meta property="og:title" content="PMM2: Novel Heat Engine Defies Carnot | Water's Anomalous Expansion">
+<meta property="og:description" content="Explore how water's anomalous freezing behavior can create a heat engine that appears to generate work with minimal temperature difference, exceeding the Carnot limit.">
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:url" content="https://pmm2.in/">
+<meta name="twitter:title" content="PMM2: Novel Heat Engine Defies Carnot | Water's Anomalous Expansion">
+<meta name="twitter:description" content="A novel heat engine leverages water's anomalous expansion upon freezing to convert low-quality heat into useful work, presenting a challenge to Carnot's theorem.">
+
+
+
+
+
+
+
+
+
+
+
+
+
