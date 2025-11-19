@@ -72,8 +72,7 @@ h2 {
 
     table {
       width: 100%;
-      border-collapse: separate;
-	  border-spacing: 0 ;
+      border-collapse: collapse;
       border-radius: 8px;
       overflow: hidden;
     }
@@ -84,11 +83,11 @@ h2 {
     }
 
     th, td {
-      padding: 0.5rem;
+      padding: 1rem;
       text-align: left;
-	   font-size: 15px;
-	}
-    
+      border-bottom: 1px solid #e0e0e0;
+	  font-size: 15px;
+    }
 
     tbody tr:hover {
       font-size: 15px;
@@ -124,17 +123,6 @@ nav a {
   border-left: 5px solid var(--primary-color);
 }
 
-.main_about {
-  font-size: 18px;
-	flex: 1;
-  flex-wrap: wrap;
-  align-items: flex-start;
-  margin-left: 0em;
-  margin-right: 3em;
-  padding-left: 2em;
-  border-left: 5px solid var(--primary-color);
-}
-
 .diagram {
 	background: #fff;
 	border: 1px solid #ccc;
@@ -145,21 +133,15 @@ nav a {
 
 /* Sidebar styles */
 .sidebar {
-	align-self: center;
-	width: 350px;
-	margin-left: auto;
-	margin-right: auto;
+	width: 300px;
 	max-width: 100%;
 	margin-top: 30px;
-	background-color: #dae7f7;
+	background-color: #f4f4f4;
 	padding: 20px;
 	box-sizing: border-box;
-	border-right: 1px solid #642ce6;
-	height: 220px;
+	border-right: 1px solid #ccc;
+	height: 400px;
 	z-index: 500;
-}
-.text_width {
-	width: 450px;
 }
 
 .sidebar h2 {
@@ -184,12 +166,3 @@ nav a {
   margin-bottom: 50px; 
   margin-top: 50px;
 }
-
-.td_border {
-		border-bottom: 5px solid #d7ddf8; 
-	      /*     #e0e0e0; */
-	  border-right: 5px solid #b0bdf7;
-	  border-left: 5px solid #b0bdf7;
-	  border-top: 5px #b0bdf7;
-		 
-    }
