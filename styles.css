@@ -193,3 +193,22 @@ nav a {
 	  border-top: 5px #b0bdf7;
 		 
     }
+
+.contact_box {
+	z-index: 500;
+	margin-left: auto;  
+	margin-right: auto;  
+    width: 90%;
+    /* max-width: 350px; */
+    flex-basis: 100%;
+	display: block;
+	text-align: center;
+	/* font-size: clamp(1rem, 2.5vw, 1.5rem); */
+	font-size: 1rem;
+}
+
+@media (max-width: 600px) {
+    .contact_box {
+        font-size: 1.25rem;
+    }
+}
